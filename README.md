@@ -34,6 +34,36 @@ This project was a deep dive into the real-world challenges of building AI. Here
 
 ##Before fine tuning the model
 <img width="1366" height="768" alt="Screenshot 2025-08-01 220307" src="https://github.com/user-attachments/assets/fb593d91-8aa7-4b69-96ed-99d44c73db41" />
+<img width="1366" height="768" alt="Screenshot 2025-08-01 220307" src="https://github.com/user-attachments/assets/b7e0cd3b-0a2e-4740-ab8c-7a32549fb14a" />
+
+##Training
+
+After seeing terrible results i dicided to fine-tune the model to specifically sci-fi genre
+
+<img width="1366" height="768" alt="Screenshot 2025-08-02 173834" src="https://github.com/user-attachments/assets/ab8f7dcb-10fd-4b21-b277-2a0364858f71" />
+
+and then i got this (because of session timeout )
+
+<img width="1366" height="768" alt="Screenshot 2025-08-02 174059" src="https://github.com/user-attachments/assets/fdfd649f-46c2-4faa-881c-3a1f18c72d21" />
+
+##After training 
+(For session 1 i randomly selected the books and i think 5 of them from project gutenburg)
+<img width="1366" height="768" alt="Screenshot 2025-08-02 181233" src="https://github.com/user-attachments/assets/bbae3483-2d32-4cc0-9701-d18e0e530e25" />
+results are improved better than last time
+<img width="1366" height="768" alt="Screenshot 2025-08-02 181312" src="https://github.com/user-attachments/assets/34b10537-8211-4a5f-9305-49c8ca382f99" />
+<img width="1366" height="768" alt="Screenshot 2025-08-02 181348" src="https://github.com/user-attachments/assets/b0132c9f-afdb-4dd4-893a-6fb85a3777f4" />
+<img width="1366" height="768" alt="Screenshot 2025-08-03 003031" src="https://github.com/user-attachments/assets/95c46835-b3c7-4c62-8957-1fb3ace4fe60" />
+After that i added 'panchatantra' stories which are direct story and to help the model to learn story writing
+<img width="1366" height="768" alt="Screenshot 2025-08-03 132819" src="https://github.com/user-attachments/assets/4b1bae1a-8633-4551-852c-9ffa4da478ee" />
+these are the results i got mixed up with writing 
+<img width="1366" height="768" alt="Screenshot 2025-08-03 143445" src="https://github.com/user-attachments/assets/a80fddd2-7033-48b0-80d3-b54acd9a254f" />
+and again usage limit hit me again
+<img width="1366" height="768" alt="Screenshot 2025-08-03 152732" src="https://github.com/user-attachments/assets/c4dee0bc-b40f-443a-a0a3-4b4d59a49f8e" />
+again i started in another google account but now i espessiaaly taken ten books which are perfect to train model with sci-fi genre writing 
+<img width="1366" height="768" alt="Screenshot 2025-08-03 184607" src="https://github.com/user-attachments/assets/18e5f2be-9b6b-487e-bbde-fc10d6045ac7" />
+results
+<img width="1366" height="768" alt="Screenshot 2025-08-03 213253" src="https://github.com/user-attachments/assets/9cd8a2ed-5042-4444-bbdd-8116d890a2ee" />
+<img width="1366" height="768" alt="Screenshot 2025-08-03 213823" src="https://github.com/user-attachments/assets/a39d967e-5d8c-4025-a7ce-b95d2497c066" />
 
 
 ## 🛠️ How To Use
